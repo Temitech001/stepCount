@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 const messages = [
   'Learn React',
-  'Applly for jobs',
+  'Applly for jobs',f
   'seek for advice',
   'read novels',
   'sleep',
