@@ -7,7 +7,7 @@ const messages = [
   'read novels',
   'sleep',
 ];
-
+     
 // const step = 2;
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
     if (step < 5) setStep(step + 1);
   }
   function handlePrevious() {
-    if (step > 1) setStep(step - 1);
+    if (step > 1) setStep(step - 1)
   }
   return (
     <>
