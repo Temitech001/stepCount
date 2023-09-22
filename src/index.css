@@ -10,6 +10,16 @@ const messages = [
   box-sizing: border-box;
 }
 
+.btn {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+button {
+  margin-left: auto;
+}
+
 body {
   font-family: sans-serif;
   color: #333;
